@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Files">
+        <file>Resources/Pictures/welc_pic.png</file>
+        <file>Resources/Icons/library_icon.ico</file>
+        <file>Resources/Text/about.txt</file>
+        <file>Resources/Icons/back.ico</file>
+        <file>Resources/Icons/magnifier.ico</file>
+    </qresource>
+</RCC>
